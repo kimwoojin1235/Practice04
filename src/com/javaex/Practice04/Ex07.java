@@ -29,7 +29,7 @@ public class Ex07 {
 			 int mon =wonArray1[i]*wonArray[i];
 			 //wonArray1의 대입되어진 값과 wonArray의 [0]인 50000을 곱한뒤 mon의 대입
 			mo -= mon;
-			//그리고 mon의 대입된 갑ㅅ을 mo와 빼고 대입을 시킴
+			//그리고 mon의 대입된 값을 mo와 빼고 대입을 시킴
 			
 		}
 		for(int i=0; i<wonArray1.length; i++) {

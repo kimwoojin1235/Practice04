@@ -6,7 +6,6 @@ public class Ex05 {
 
 	public static void main(String[] args) {
 		int sum = 0;
-		int snm = 0;
 		Scanner sc = new Scanner(System.in);
 		System.out.print("");
 		int[] num = new int[5];

@@ -10,7 +10,7 @@ public class Ex08 {
 				
 				for (int j = 0; j < i; j++) {
 					if(lotto[i]==lotto[j]) {//i와j가 같으면 들어감
-						j--;
+						i--;
 						break;
 					}
 				}
